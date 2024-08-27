@@ -23,15 +23,15 @@ I am passionate about expanding my skill set and staying current with the latest
 
 <p align="center" > ✨ Visitor count </p>
 
-<p align="center" > <img src="https://profile-counter.glitch.me/fahadchy24/count.svg" /> </p>
+<p align="center" > <img src="https://profile-counter.glitch.me/Tanvirdevelope/count.svg" /> </p>
 
 
 
 <h2 align="center"> 📈 Stats</h2>
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fahadchy24&show_icons=true&theme=prussian" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadchy24&theme=prussian" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanvirdevelope&show_icons=true&theme=prussian" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvirdevelope&theme=prussian" />
 <!--   <a href="https://github.com/fahadchy24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadchy24&layout=compact&theme=prussian&hide_border=true" /></a> 
 </p> -->
 	
