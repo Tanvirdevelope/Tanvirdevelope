@@ -5,7 +5,7 @@
 
 <p align="center" > Passionate and Enthusiastic about exploring new technology along with being a quick learner. 😊 </p>
 
-Hello, I'm Tanvir, a web developer with over 3 years of experience in building innovative and efficient solutions. My expertise includes PHP, Laravel, JavaScript, Object-Oriented Programming (OOP), Model-View-Controller (MVC), REST APIs, and GitHub, with a special fondness for working with Laravel.
+Hello, I'm Tanvir, a web developer with over 3 years of experience in building innovative and efficient solutions. My expertise includes PHP, Laravel, Wordpress, JavaScript, Object-Oriented Programming (OOP), Model-View-Controller (MVC), REST APIs, and GitHub, with a special fondness for working with Laravel.
 
 I am passionate about expanding my skill set and staying current with the latest industry trends. Strong communication and collaboration are key to my approach, and I enjoy sharing knowledge and learning from my colleagues. Feel free to explore my portfolio to see my work, and don't hesitate to reach out if you'd like to collaborate on a project!
 
